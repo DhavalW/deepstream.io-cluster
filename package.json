@@ -41,7 +41,7 @@
   },
   "pre-commit": "lint:staged",
   "dependencies": {
-    "nanomsg-cluster": "^0.4.0"
+    "nanomsg-cluster": "^0.6.13"
   },
   "peerDependencies": {
     "deepstream.io": "3.1.1"
